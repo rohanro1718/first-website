@@ -1,6 +1,6 @@
 import os
 
+#Adding comment to test git changes
 print(os.listdir())
-print(os.get_blocking())
 
-print(os.chdir("/"))
+print(os.getcwd())
